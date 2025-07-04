@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Buoyo</string>
+
+    <string name="core_back">Back</string>
+    <string name="core_beta_version">Beta</string>
+    <string name="core_cancel">Cancel</string>
+    <string name="core_close">Close</string>
+    <string name="core_exit_full_screen">Exit Full Screen</string>
+    <string name="core_full_screen">Full Screen</string>
+    <string name="core_ga_version">GA</string>
+    <string name="core_loading">Loading…</string>
+    <string name="core_nothing">Nothing</string>
+    <string name="core_nothing_found">Nothing found</string>
+    <string name="core_ok">OK</string>
+    <string name="core_search">Search</string>
+    <string name="core_unknown">Unknown</string>
+    <string name="core_website">Website</string>
+
+    <string name="feature_left_title">Left</string>
+
+    <string name="feature_home_title">Home</string>
+
+    <string name="feature_right_title">Right</string>
+
+    <string name="feature_settings_dynamic_color">Dynamic Color</string>
+    <string name="feature_settings_dynamic_color_disable">Disable</string>
+    <string name="feature_settings_dynamic_color_enable">Enable</string>
+    <string name="feature_settings_language">Language</string>
+    <string name="feature_settings_language_chinese" translatable="false">中文</string>
+    <string name="feature_settings_language_english" translatable="false">English</string>
+    <string name="feature_settings_language_system_default">System Default</string>
+    <string name="feature_settings_more">More</string>
+    <string name="feature_settings_more_open_source_license">Open Source License</string>
+    <string name="feature_settings_more_about">About</string>
+    <string name="feature_settings_theme_brand">Theme Brand</string>
+    <string name="feature_settings_theme_brand_android">Android</string>
+    <string name="feature_settings_theme_brand_default">Default</string>
+    <string name="feature_settings_theme_mode">Theme Mode</string>
+    <string name="feature_settings_theme_mode_dark">Dark</string>
+    <string name="feature_settings_theme_mode_light">Light</string>
+    <string name="feature_settings_theme_mode_system_default">System Default</string>
+    <string name="feature_settings_title">Settings</string>
+    <string name="feature_settings_top_app_bar_action_icon_description">More</string>
+    <string name="feature_settings_top_app_bar_navigation_icon_description">Search</string>
+</resources>

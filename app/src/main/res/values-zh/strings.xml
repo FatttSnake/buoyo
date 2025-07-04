@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">浮标</string>
+
+    <string name="core_back">返回</string>
+    <string name="core_beta_version">测试版</string>
+    <string name="core_cancel">取消</string>
+    <string name="core_close">关闭</string>
+    <string name="core_exit_full_screen">退出全屏</string>
+    <string name="core_full_screen">全屏</string>
+    <string name="core_ga_version">正式版</string>
+    <string name="core_loading">加载中…</string>
+    <string name="core_nothing">空空如也</string>
+    <string name="core_nothing_found">未找到相关内容</string>
+    <string name="core_ok">完成</string>
+    <string name="core_search">搜索</string>
+    <string name="core_unknown">未知</string>
+    <string name="core_website">网站</string>
+
+    <string name="feature_home_title">主页</string>
+
+    <string name="feature_left_title">左页</string>
+
+    <string name="feature_right_title">右页</string>
+
+    <string name="feature_settings_dynamic_color">动态颜色</string>
+    <string name="feature_settings_dynamic_color_disable">禁用</string>
+    <string name="feature_settings_dynamic_color_enable">启用</string>
+    <string name="feature_settings_language">语言</string>
+    <string name="feature_settings_language_system_default">系统默认</string>
+    <string name="feature_settings_more">更多</string>
+    <string name="feature_settings_more_open_source_license">开源许可</string>
+    <string name="feature_settings_more_about">关于</string>
+    <string name="feature_settings_theme_brand">主题类型</string>
+    <string name="feature_settings_theme_brand_android">Android</string>
+    <string name="feature_settings_theme_brand_default">默认</string>
+    <string name="feature_settings_theme_mode">主题模式</string>
+    <string name="feature_settings_theme_mode_dark">深色</string>
+    <string name="feature_settings_theme_mode_light">明亮</string>
+    <string name="feature_settings_theme_mode_system_default">系统默认</string>
+    <string name="feature_settings_title">设置</string>
+    <string name="feature_settings_top_app_bar_action_icon_description">更多</string>
+    <string name="feature_settings_top_app_bar_navigation_icon_description">搜索</string>
+</resources>
